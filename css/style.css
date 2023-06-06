@@ -38,7 +38,7 @@ main{
 
 .pokemon__data{
     position: absolute;
-    font-size:150%;
+    font-size:170%;
     color: #90ec6b;
     right: 14%;
     bottom: 56%;
@@ -64,7 +64,7 @@ main{
     width:33.9%;
     font-weight: 600;
     color: #2a2626;
-    font-size:100%;
+    font-size:120%;
     box-shadow: 3px 3px #060505;
 }
 
